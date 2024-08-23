@@ -25,7 +25,8 @@ Solve the problem by helping investors to find the best investment that suits th
 —
 
 # Technologies
-- Python/R
+- Python/
+- SQL
 - PostgreSQL
 
 —
